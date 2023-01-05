@@ -1,0 +1,14 @@
+# Mac
+.DS_Store
+Thumbs.db
+.Trashes
+.Spotlight-V100
+.AppleDouble
+
+# Git
+.git/logs
+
+# Python
+.pytest_cache
+__pycache__
+
